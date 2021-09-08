@@ -2,12 +2,10 @@
 
 
 
-
-Nombre : Catherine Claire Mena Jaen
-Edad : 21 
-Correo: catherine.mena11751@est.uca.esu.ni
-Carrera: Ingenieria en sistemas.
-
+programar te permite crear soluciones a problemas.
+ Soy una persona a la que le gusta ver resultados y la programación me permite crear 
+ un programa en sólo unos minutos y verlo funcionar desde ese mismo instante (aunque no haga nada útil).
+ Luego puedo añadir una línea de código e inmediatamente ver el efecto que tiene. Es maravilloso.
 
 
 
@@ -23,9 +21,3 @@ Carrera: Ingenieria en sistemas.
 
 
 
-
-a programación informática es el arte del proceso por el cual se 
-limpia, codifica, traza y protege el código fuente de programas 
-computacionales, en otras palabras, es indicarle a la computadora lo que tiene que hacer. 
-La programación informática es una de las habilidades esenciales que aprendes cuando estudias 
-informática.
